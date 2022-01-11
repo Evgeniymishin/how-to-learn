@@ -2,4 +2,5 @@
   display: flex;
   height: 608px;
   overflow: hidden;
+  align-items: flex-start;
 }
